@@ -1,4 +1,4 @@
-# [MICCAI 2025]Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation
+# [MICCAI 2025] Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation
 
 ### [ArXiv Paper]() 
 
