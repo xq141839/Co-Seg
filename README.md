@@ -4,7 +4,7 @@
 
 [Qing Xu](https://scholar.google.com/citations?user=IzA-Ij8AAAAJ&hl=en&authuser=1)<sup>1,2</sup> [Wenting Duan](https://scholar.google.com/citations?user=H9C0tX0AAAAJ&hl=en&authuser=1)<sup>1</sup> [Zhen Chen](https://franciszchen.github.io/)<sup>3✉</sup> 
 
-<sup>1</sup>University of Lincoln &emsp; <sup>2</sup>Univeristy of Nottingham &emsp; <sup>3</sup>Yale &emsp;
+<sup>1</sup>University of Lincoln &emsp; <sup>2</sup>Univeristy of Nottingham &emsp; <sup>3</sup>Yale University &emsp;
 
 <sup>✉</sup> Corresponding Author. 
 
