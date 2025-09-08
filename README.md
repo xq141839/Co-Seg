@@ -9,7 +9,7 @@
 <sup>✉</sup> Corresponding Author. 
 
 -------------------------------------------
-![introduction](figs/method.png)
+![introduction](method.png)
 
 ## 📰News
 
