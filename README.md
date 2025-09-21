@@ -1,6 +1,6 @@
 # [MICCAI 2025] Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation
 
-### [ArXiv Paper]() 
+### [ArXiv Paper](https://arxiv.org/abs/2509.06740) 
 
 [Qing Xu](https://scholar.google.com/citations?user=IzA-Ij8AAAAJ&hl=en&authuser=1)<sup>1,2</sup> [Wenting Duan](https://scholar.google.com/citations?user=H9C0tX0AAAAJ&hl=en&authuser=1)<sup>1</sup> [Zhen Chen](https://franciszchen.github.io/)<sup>3✉</sup> 
 
@@ -53,6 +53,17 @@ The json structure is as follows.
 * Train the Co-Seg with the default settings:
 ```python
 python train.py --dataset data/$YOUR DATASET NAME$ --sam_pretrain pretrain/sam2_hiera_large.pth
+```
+
+## 📜Citation
+If you find this work helpful for your project, please consider citing the following paper:
+```
+@article{xu2025co,
+  title={Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation},
+  author={Xu, Qing and Duan, Wenting and Chen, Zhen},
+  journal={arXiv preprint arXiv:2509.06740},
+  year={2025}
+}
 ```
 
 ## Acknowledgements
