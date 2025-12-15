@@ -18,7 +18,7 @@ import json
 from tqdm import tqdm
 import torch.nn.functional as F
 from typing import Any, Dict, List, Tuple
-from model import SAM2
+from model import CoSeg
 from functools import partial
 from scipy import ndimage as ndi
 from monai.metrics import compute_hausdorff_distance, compute_percent_hausdorff_distance, HausdorffDistanceMetric
@@ -110,7 +110,7 @@ if __name__ == '__main__':
     # reinit hydra with a new search path for configs
     hydra.initialize_config_module('sam2_configs', version_base='1.2')
 
-    model = SAM2(build_sam2(model_cfg, args.model, mode=None))
+    model = CoSeg(build_sam2(model_cfg, args.model, mode=None))
 
     if torch.cuda.device_count() > 1:
         print("Let's use", torch.cuda.device_count(), "GPUs!")
